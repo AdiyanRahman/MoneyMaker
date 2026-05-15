@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MoneyMaker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MoneyMaker_jar</output-path>
+    <root id="archive" name="MoneyMaker.jar">
+      <element id="module-output" name="MoneyMaker" />
+      <element id="dir-copy" path="$PROJECT_DIR$/sprites" />
+    </root>
+  </artifact>
+</component>
